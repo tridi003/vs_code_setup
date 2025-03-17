@@ -145,7 +145,7 @@ After installation, some extensions may require additional setup or a restart of
 
 ### Interactive Jupyter
 
-*   **Interactive Python**: Search for `Jupyter Interactive Window` → Enable (When pressing shift + enter, send selection to Jupyter interactive window as opposed to the Python terminal)
+*   **Interactive Python**: Search for `Jupyter Interactive Window` → Enable (When pressing shift + enter, send selection to Jupyter interactive window as opposed to the Python terminal) [Jupyter Interactive Window > Text Editor: Execute Selection]
 *   **Root**: Regarding changing the root folder for Jupyter notebooks, you can modify your settings in VS Code by including the JSON snippet below:
 
   

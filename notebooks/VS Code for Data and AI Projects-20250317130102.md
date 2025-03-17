@@ -95,6 +95,9 @@ After installation, some extensions may require additional setup or a restart of
 6. [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
 7. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 8. [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+9. [.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)
+10.[Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
+
 
   
 
